@@ -1,1 +1,2 @@
-# Fix-my-code-0
+# Fix My Code Challenge
+Code debugging challnge by ALX Software Engineering program.
